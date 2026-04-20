@@ -77,7 +77,7 @@ const centers = {
     // false = service is OFF. No texts will be sent.
 
     schedule: {
-      alwaysOn: false,
+      alwaysOn: true,
       // true  = send texts 24 hours a day, 7 days a week.
       // false = only send texts outside of business hours below.
 
